@@ -2,3 +2,10 @@
 .profilepic {
   max-width: 150px;
 }
+body {
+  background-image: url("../images/scribble_light.png");
+}
+.container {
+  background-color: white;
+  margin: 25px, 0,0,0;
+}
